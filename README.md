@@ -1,0 +1,4 @@
+home
+====
+
+rc files
